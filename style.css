@@ -200,7 +200,7 @@ body {
 }
 
 .popup img {
-    width: 400px; /* Adjust certificate image size */
+    width: 800px; /* Adjust certificate image size */
     max-width: 90%; /* Ensure it fits smaller screens */
     box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.3);
     border: 1px solid #ccc;
